@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-tasks-manager/static/css/main.0969002e.css",
-    "main.js": "/react-tasks-manager/static/js/main.41eb41d4.js",
-    "static/media/addTask.svg": "/react-tasks-manager/static/media/addTask.61245d70f5b7df0c314567ee1f966a7a.svg",
-    "static/media/setting.svg": "/react-tasks-manager/static/media/setting.8f8f03571c81ff4ebff95beeea62690e.svg",
-    "static/media/menu.svg": "/react-tasks-manager/static/media/menu.045ed0d2068babccdbad5fca994f1701.svg",
+    "main.js": "/react-tasks-manager/static/js/main.52ab363e.js",
+    "static/media/addTask.svg": "/react-tasks-manager/static/media/addTask.4139997930a8d71cbe4a92e1b8c8862c.svg",
+    "static/media/setting.svg": "/react-tasks-manager/static/media/setting.08aaaaa016c7f55f5a89562667feefed.svg",
+    "static/media/menu.svg": "/react-tasks-manager/static/media/menu.63f189679f6fd2970b54057620b642a5.svg",
     "index.html": "/react-tasks-manager/index.html",
-    "static/media/pencil.svg": "/react-tasks-manager/static/media/pencil.2805bd352702b2ac995830b99248aa5f.svg",
+    "static/media/pencil.svg": "/react-tasks-manager/static/media/pencil.f60b64dae5323a2b4f7a5f4a902475cf.svg",
     "static/media/minus.svg": "/react-tasks-manager/static/media/minus.b1513b5185b8f0944a64f32e3ea63081.svg",
     "static/media/arrowUp.svg": "/react-tasks-manager/static/media/arrowUp.eddc37ed7c0b795860b76638bd330176.svg",
     "main.0969002e.css.map": "/react-tasks-manager/static/css/main.0969002e.css.map",
-    "main.41eb41d4.js.map": "/react-tasks-manager/static/js/main.41eb41d4.js.map"
+    "main.52ab363e.js.map": "/react-tasks-manager/static/js/main.52ab363e.js.map"
   },
   "entrypoints": [
     "static/css/main.0969002e.css",
-    "static/js/main.41eb41d4.js"
+    "static/js/main.52ab363e.js"
   ]
 }
