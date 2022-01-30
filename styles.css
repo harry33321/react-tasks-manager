@@ -353,9 +353,7 @@ p {
 /* ------------------------------------------------------------- */
 @media screen and (max-width: 767px) {
 
-    .topBarDateTime,
-    .filter
-    {
+    .filter {
         display: none;
     }
 
@@ -383,6 +381,10 @@ p {
 }
 
 @media screen and (max-width: 575px) {
+
+    .topBarDateTime {
+        display: none;
+    }
 
     .card-footer small {
         font-size: 10px;
