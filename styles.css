@@ -114,20 +114,30 @@ p {
 /* Welcome Login page styles */
 /* ------------------------------------------------------------- */
 .welcomePage {
-    background-image: url("./background/1.jpg");
-    background-size: cover;
+    background: url("./background/welcomepage_BGwhite16-9.png");
     height: 100vh;
+    display: flex;
+    background-size: cover;
+    background-position-x: left;
+    background-position-y: bottom;
+}
+
+.darkMode .welcomePage {
+    background-image: url("./background/welcomepage_BGdark16-9.png");
+    background-position-x: right;
+    background-position-y: top;
 }
 
 .welcomeForm {
-    background-color:rgba(231, 231, 231, 0.6);
+    background-color:rgba(216, 216, 216, 0.6);
     font-size: calc(10px + 2vmin);
     padding: 12vh 0 16vh 0;
     border-radius: 20px;
-    position: absolute;
+    margin: auto
+    /* position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
 }
 
 .welcomeInput {
