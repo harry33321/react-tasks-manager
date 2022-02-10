@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-tasks-manager/static/css/main.7470ccad.css",
-    "main.js": "/react-tasks-manager/static/js/main.e9c64cb7.js",
+    "main.js": "/react-tasks-manager/static/js/main.8456be09.js",
     "static/media/logout.svg": "/react-tasks-manager/static/media/logout.61c86b5562bd1b8a10d9f6c7e77de26e.svg",
     "static/media/addTask.svg": "/react-tasks-manager/static/media/addTask.4139997930a8d71cbe4a92e1b8c8862c.svg",
     "static/media/setting.svg": "/react-tasks-manager/static/media/setting.a10cd0f405856a189e401fbdbfa8e17f.svg",
@@ -12,10 +12,10 @@
     "static/media/arrowUp.svg": "/react-tasks-manager/static/media/arrowUp.eddc37ed7c0b795860b76638bd330176.svg",
     "static/media/Add.svg": "/react-tasks-manager/static/media/Add.99270e7e35d96779b943175bb2868999.svg",
     "main.7470ccad.css.map": "/react-tasks-manager/static/css/main.7470ccad.css.map",
-    "main.e9c64cb7.js.map": "/react-tasks-manager/static/js/main.e9c64cb7.js.map"
+    "main.8456be09.js.map": "/react-tasks-manager/static/js/main.8456be09.js.map"
   },
   "entrypoints": [
     "static/css/main.7470ccad.css",
-    "static/js/main.e9c64cb7.js"
+    "static/js/main.8456be09.js"
   ]
 }
